@@ -2,9 +2,9 @@
 
   ## My Contact
 
- tel 1. *+79263775429*1
- e-mail 2. *evgenii.telnov@mail.ru*2
- GitHub 3. *MnemonicJon*3
+1. tel *+79263775429* 1
+2. e-mail *evgenii.telnov@mail.ru* 2
+3. GitHub  *MnemonicJon* 3
   
   # About me
 
